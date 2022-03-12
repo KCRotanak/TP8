@@ -81,7 +81,7 @@ export default {
 }
 
 .log_in {
-  background-color: rgba(170, 170, 170, 0.8);
+  background-color: rgb(255, 255, 255);
   width: 50%;
   padding: 1rem;
   border-radius: 2%;

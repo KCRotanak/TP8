@@ -88,7 +88,7 @@ nav a:first-of-type {
   body {
     display: flex;
     place-items: center;
-    background-color: rgb(52, 101, 116);
+    background-color: rgb(69, 209, 251);
   }
 
   #app {
